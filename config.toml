@@ -1,25 +1,13 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "WidgetCo Inc"
+title = "Dr. med. Klaus G. Jürgens"
 canonifyUrls = "true"
 theme="landing-page-hugo"
 [params]
-    description = "The best widgets in the world!"
+    description = "Facharzt für Orthopädie, Chirotherapie und Sportorthopädie"
     custom_css = ["css/local.css"]
 
 [[params.social]]
     title = "email"
     icon = "envelope-o"
-    url = "mailto:bushbama@whitehouse.gov"
-[[params.social]]
-    title = "twitter"
-    icon = "twitter"
-    url = "https://twitter.com/SBootstrap"
-[[params.social]]
-    title = "github"
-    icon = "github"
-    url = "https://github.com/IronSummitMedia/startbootstrap"
-[[params.social]]
-    title = "linkedin"
-    icon = "linkedin"
-    url = "http://linkedin.com/in/yourusername"
+    url = "mailto:kljuergens@aol.com"
