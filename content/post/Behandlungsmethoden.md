@@ -4,10 +4,6 @@ draft = false
 title = "Behandlungsmethoden"
 weight = 1
 +++
-Mit meiner langjährigen Erfahrung habe ich mich auf folgende Gebiete spezialisiert:
+Ich biete Ihnen in meiner Praxis in München von der klassischen Chirotherapie bis hin zur konservativen Wirbelsäulenbehandlung zur Operationsvermeidung ein breites Spektrum an.
 
-* Akupunktur<br>
-* Bioresonanztherapie<br>
-* Chirotherapie<br>
-* Schmerzlaserbehandlung<br>
-* Rückenschmerzen
+Tinnitus- und Schwindelbehandlung, Kinder- und Säuglingsbehandlung sowie die Ultraschalluntersuchung von Säuglingshüften und Weichteilen ergänzen mein Behandlungsangebot in München.

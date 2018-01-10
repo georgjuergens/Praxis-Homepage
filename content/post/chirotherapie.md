@@ -5,6 +5,8 @@ title = "Chirotherapie"
 weight = 4
 +++
 
+Die Chirotherapie ist besonders geeignet bei:
+
 * akute Nacken- bzw. Schulterschmerzen
 * der „Hexenschuss“
 * „Ischias“-Schmerzen bzw. Brustkorb- oder Rippenschmerzen
