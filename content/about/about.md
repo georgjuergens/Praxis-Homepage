@@ -4,5 +4,4 @@ draft = false
 title = ""
 
 +++
-Terofalstr. 4<br>80689 München<br>Telefon: 089-1401955<br>Mobil: 0179 5118384
-<br><br>
+<h2>Facharzt für Orthopädie, Chirotherapie und Sportorthopädie<h2>

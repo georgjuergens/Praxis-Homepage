@@ -4,7 +4,7 @@ title = "Dr. med. Klaus G. Jürgens"
 canonifyUrls = "true"
 theme="landing-page-hugo"
 [params]
-    description = "Facharzt für Orthopädie, Chirotherapie und Sportorthopädie"
+    description = ""
     custom_css = ["css/local.css"]
 
 [[params.social]]
